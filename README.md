@@ -1,5 +1,5 @@
 # Portfolio
-My first Flask website
+Flask website
 
 this is just a template for a website. the Template is Univers from http://www.mashup-template.com/templates.html
 
