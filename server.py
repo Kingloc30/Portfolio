@@ -1,5 +1,5 @@
 """
-
+Flask site that hosts a webpage with working contact form and database
 """
 # hekki
 import email
